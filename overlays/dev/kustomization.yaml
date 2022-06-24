@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 907101249682.dkr.ecr.ap-northeast-1.amazonaws.com/myapp-repo
   newName: 907101249682.dkr.ecr.ap-northeast-1.amazonaws.com/myapp-repo
-  newTag: 496cca54
+  newTag: 11d4974e
 resources:
 - ../../base
 patchesStrategicMerge:
